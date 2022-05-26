@@ -1,0 +1,60 @@
+body{
+	
+}
+
+header{
+	text-align: center;
+	background-color: black;
+	color: white;
+	border-radius: 30px;
+	font-family: sans-serif;
+	font-size: 30px;
+	height: 75px;
+}
+div{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+
+.est{
+	background-image: url(1.jpg);
+	background-repeat: no-repeat;
+	background-size: 115rem;
+	height: 35rem;
+	font-family: sans-serif;
+	border-radius: 30px;
+}
+
+p{
+	background-color: black;
+	color: white;
+	border-radius: 30px;
+	width: 550px;
+	left: 35%;
+	position:absolute;
+	height: 65px;
+}
+
+input{
+	border-radius: 30px;
+	width: 300px;
+	left: 42%;
+	position:absolute;
+	height: 30px;
+	font-size: 25px;
+	text-align: center;
+}
+
+button{
+	display: inline-block;
+	background: #E91E63;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	border-radius: 30px;	
+}
+
+.cal{
+	text-align: s;
+}
